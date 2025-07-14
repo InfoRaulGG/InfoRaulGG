@@ -29,23 +29,15 @@ Desarrollador con experiencia en entornos **corporativos y de consultoría**, ac
 
 ---
 
-## 📌 Proyectos destacados
-
-Estos son algunos de mis repos más representativos:
-
-➡️ **[Nombre del Proyecto 1](#)** – Breve descripción de qué hace  
-➡️ **[Nombre del Proyecto 2](#)** – Otro ejemplo interesante
-
-*(Puedo ayudarte a preparar los README de tus proyectos si me das acceso o links)*
-
----
-
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raul-gonzalez-galan&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=InfoRaulGG&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfoRaulGG&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoRaulGG&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
 ---
 
 ## 📫 Contacto
