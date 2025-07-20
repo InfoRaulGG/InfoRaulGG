@@ -1,47 +1,30 @@
-<h1 align="center">¡Hola! Soy Raúl 👨‍💻</h1>
+<h1 align="center">Hi, I'm Raúl 👨‍💻</h1> <p align="center"> Full Stack Developer · .NET, Angular & React Native Specialist <br/> 🚀 Passionate about clean code, cloud technologies, and powerful APIs </p>
+🧠 About Me
+I'm a Full Stack Developer with professional experience in corporate and consulting environments, currently aiming to transition into product-focused companies or startups where I can contribute to real, impactful solutions.
 
-<p align="center">
-  Full Stack Developer · .NET, Angular & React Native Specialist  
-  <br/>
-  🚀 Amante de las buenas APIs, la nube y el código limpio
-</p>
+I enjoy building robust, scalable, and well-structured applications — from backend APIs to intuitive frontend interfaces.
 
----
+📍 What I'm up to now:
 
-## 🧠 Sobre mí
+✅ Deepening my expertise in .NET, Angular, and React Native
 
-Desarrollador con experiencia en entornos **corporativos y de consultoría**, actualmente enfocado en dar el salto hacia **startups o producto final**. Me apasiona crear aplicaciones robustas y bien estructuradas, tanto en frontend como backend.
+🌱 Learning Node.js and NestJS (1 hour daily)
 
-📍 Actualmente estoy:
-- ✅ Especializándome en **.NET, Angular y React Native**
-- 🌱 Estudiando **Node.js y NestJS** con 1h diaria
-- 🔍 Buscando nuevos retos profesionales que me permitan aportar valor real
+🔍 Actively exploring opportunities to join purpose-driven tech teams
 
----
+⚒️ Technologies & Tools
+Backend	Frontend	Mobile	Cloud & DevOps
+.NET (C#)	Angular	React Native	Azure, GitHub Actions
+ASP.NET Core	HTML, CSS, TypeScript	Expo	Docker, REST APIs
+Entity Framework	TailwindCSS		Swagger/OpenAPI
 
-## ⚒️ Tecnologías y herramientas
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoRaulGG&layout=compact&theme=radical" alt="Top Languages" /> </p>
+📫 Let's Connect
+🔗 LinkedIn: Raúl González Galán
 
-| Backend       | Frontend             | Mobile        | Cloud & DevOps        |
-|---------------|----------------------|---------------|------------------------|
-| .NET (C#)     | Angular              | React Native  | Azure, GitHub Actions |
-| ASP.NET Core  | HTML, CSS, TypeScript| Expo          | Docker, REST APIs     |
-| Entity Framework | TailwindCSS       |               | Swagger/OpenAPI       |
+🌐 Personal Portfolio: coming soon
 
----
+📬 Open to collaboration on meaningful tech projects
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoRaulGG&layout=compact&theme=radical" alt="Top Langs" />
-</p>
----
-
-## 📫 Contacto
-
-- 🔗 [LinkedIn: Raúl González Galán](https://www.linkedin.com/in/raul-gonzalez-galan-141702199/)
-- 🌐 Portfolio (en desarrollo)
-- 📬 Disponible para colaborar en proyectos tech con propósito
-
----
-
-> ✨ “La tecnología no solo debe funcionar, debe transformar” 
+✨ “Technology shouldn’t just work — it should transform.”
